@@ -1,0 +1,10 @@
+Name : Lays
+ID : 1234
+Description : Chips
+Price : 50000.0
+Quantity : 5
+Name : DairyMilk
+ID : 567
+Description : Chocolate
+Price : 20000.0
+Quantity : 20

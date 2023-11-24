@@ -1,0 +1,6 @@
+Name:Ikhlas
+Account number: 123
+Balance: 500.0
+Name:Atiq
+Account number: 1234
+Balance: 500.0
