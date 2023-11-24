@@ -1,0 +1,17 @@
+*make stack of all shapes and draw that in paint component
+*add stack in  top mostlayer 
+*when the user clicks on add layer the new layer gets add up the stack becomes empty and 
+becomes a new stack now every shape goes in that new stack which is added again into the 
+top most layer
+
+this way layering is done
+
+for(int i=0;i<allshapes.size();i++){
+            allshapes.get(i).draw(g);
+         }
+we have to create a paint program with dragging and drawing shapes like rectangle,circle,rightangle triangle etc.
+there will be a layers option that will allow shapes to get stored in those layers and if i remove the layer 
+the shapes will get erased from the program
+there would be 2 colours stroke colour and fill colour
+there will also be undo and redo functionallity for each sleected layer
+we will also have to do filing 
